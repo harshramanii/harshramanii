@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Possesses strong React, Hooks concept. Committed to delivering exceptional results and exceeding expectations. Skilled in Responsive Design, API Integration. A team player with excellent communication and problem-solving abilities.</h3>
+<h4 align="center">Possesses strong React, Hooks concept. Committed to delivering exceptional results and exceeding expectations. Skilled in Responsive Design, API Integration. A team player with excellent communication and problem-solving abilities.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshramanii&label=Profile%20views&color=0e75b6&style=flat" alt="harshramanii" /> </p>
 
